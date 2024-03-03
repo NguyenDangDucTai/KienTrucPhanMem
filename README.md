@@ -1,2 +1,2 @@
-# KienTrucPhanMemLab04
-Kien Truc Phan Mem Lab 4
+# KienTrucPhanMem
+Kien Truc Phan Mem 
